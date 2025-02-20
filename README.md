@@ -24,7 +24,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/MateusCorderio449?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/luzardoSENAI?tab=followers">
+    <a href="https://github.com/MateusCorderio449?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
