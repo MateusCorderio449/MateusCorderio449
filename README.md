@@ -1,8 +1,6 @@
-# 🧑🏻‍💻Luzardo Lustosa
+# 🧑🏻‍💻Mateus Cordeiro
 
-**`Desenvolvedora FullStack`**
-
-Me chamo Luzardo Lustosa,  sou natural do Piaui. Concluí meu curso técnico em informática 2009. Concluí Análise e Desenvolvimento de Sistemas em 2014. 
+**`Estudante SENAI`**
 
 <p align="left">
     <a href="https://www.youtube.com/@luzardoSENAI?sub_confirmation=1">
